@@ -29,12 +29,11 @@ h2 {
     grid-template-rows: 110px;
     grid-auto-rows: 110px;
     gap: 4px;
-    grid-template-areas: 'gambar-1 gambar-2 gambar-3'
-    'gambar-4 gambar-5 gambar-6'
-    'gambar-7 gambar-8 gambar-9'
-    'gambar-10 gambar-11 gambar-12'
-    'gambar-13 gambar-14 gambar-15'
-    'gambar-16 gambar-17 gambar-18';
-
+    grid-template-areas: 'gambar-1 gambar-2 gambar-12'
+    'gambar-3 gambar-4 gambar-12'
+    'gambar-5 gambar-6 gambar-7'
+    'gambar-11 gambar-8 gambar-9'
+    'gambar-11 gambar-13 gambar-14'
+    'gambar-15 gambar-16 gambar-17';
 
 }

@@ -60,15 +60,15 @@
 }
 .gambar11 {
     grid-area: gambar-11;
-    background-image: url();
+    background-image: url(listgambar/Tegak-1.JPG);
     background-size: cover;
-    background-position: bottom center;
+    background-position: center center;
 }
 .gambar12 {
     grid-area: gambar-12;
-    background-image: url();
+    background-image: url(listgambar/Tegak-2.JPG);
     background-size: cover;
-    background-position: bottom center;
+    background-position: center center;
 }
 .gambar13 {
     grid-area: gambar-13;

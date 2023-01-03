@@ -3,12 +3,12 @@
         grid-template-columns: 1fr 1fr 1fr ;
         grid-template-rows: 105px;
         grid-auto-rows: 105px;
-        grid-template-areas: 'gambar-1 gambar-2 gambar-3'
-        'gambar-4 gambar-5 gambar-6'
-        'gambar-7 gambar-8 gambar-9'
-        'gambar-10 gambar-11 gambar-12'
-        'gambar-13 gambar-14 gambar-15'
-        'gambar-16 gambar-17 gambar-18';
+        grid-template-areas: 'gambar-1 gambar-2 gambar-12'
+        'gambar-3 gambar-4 gambar-12'
+        'gambar-5 gambar-6 gambar-7'
+        'gambar-11 gambar-8 gambar-9'
+        'gambar-11 gambar-13 gambar-14'
+        'gambar-15 gambar-16 gambar-17';
     
     }
 
@@ -17,14 +17,14 @@
 @media (min-width: 768px) { 
     .galery {
         grid-template-columns: 1fr 1fr 1fr;
-        grid-template-rows: 120px;
-        grid-auto-rows: 120px;
-        grid-template-areas: 'gambar-1 gambar-2 gambar-3'
-        'gambar-4 gambar-5 gambar-6'
-        'gambar-7 gambar-8 gambar-9'
-        'gambar-10 gambar-11 gambar-12'
-        'gambar-13 gambar-14 gambar-15'
-        'gambar-16 gambar-17 gambar-18';
+        grid-template-rows: 130px;
+        grid-auto-rows: 130px;
+        grid-template-areas: 'gambar-1 gambar-2 gambar-12'
+        'gambar-3 gambar-4 gambar-12'
+        'gambar-5 gambar-6 gambar-7'
+        'gambar-11 gambar-8 gambar-9'
+        'gambar-11 gambar-13 gambar-14'
+        'gambar-15 gambar-16 gambar-17';
     }
 
 }
@@ -34,11 +34,11 @@
         grid-template-columns: 1fr 1fr 1fr 1fr;
         grid-template-rows: 130px;
         grid-auto-rows: 130px;
-        grid-template-areas: 'gambar-1 gambar-2 gambar-3 gambar-4'
-        'gambar-5 gambar-6 gambar-7 gambar-8'
-        'gambar-9 gambar-10 gambar-11 gambar-12'
-        'gambar-13 gambar-14 gambar-15 gambar-16'
-        'gambar-17 gambar-18 gambar-19 gambar-20';
+        grid-template-areas: 'gambar-1 gambar-2 gambar-3 gambar-12'
+        'gambar-11 gambar-4 gambar-5 gambar-12'
+        'gambar-11 gambar-6 gambar-7 gambar-8'
+        'gambar-9 gambar-10 gambar-13 gambar-14'
+        'gambar-15 gambar-16 gambar-17 gambar-18';
     }
 
 }
@@ -49,9 +49,9 @@
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
         grid-template-rows: 145px;
         grid-auto-rows: 145px;
-        grid-template-areas: 'gambar-1 gambar-2 gambar-3 gambar-4 gambar-5'
-        'gambar-6 gambar-7 gambar-8 gambar-9 gambar-10'
-        'gambar-11 gambar-12 gambar-13 gambar-14 gambar-15'
-        'gambar-16 gambar-17 gambar-18 gambar-19 gambar-20';
+        grid-template-areas: 'gambar-1 gambar-2 gambar-3 gambar-4 gambar-12'
+        'gambar-5 gambar-6 gambar-7 gambar-8 gambar-12'
+        'gambar-11 gambar-9 gambar-10 gambar-13 gambar-14'
+        'gambar-11 gambar-15 gambar-16 gambar-17 gambar-18';
     }
 }
